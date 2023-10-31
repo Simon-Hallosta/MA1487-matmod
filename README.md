@@ -9,7 +9,7 @@ Här hittar ni uppdaterade versioner av de demos som gårs igenom på föreläsn
     * Skriv: `conda activate <Namnet på ditt environment>` (eventuellt uteslut `conda` i anropet beroende på ditt os)
     * Skriv: `conda install python`
     * Navigera till mappen med detta repository på din dator m.h.a. `cd` i terminalen. 
-    * Skriv: `pip install -r requirements.txt`
+    * Skriv: `pip install -r requirements.txt`, för mac användare `pip install -r requirements-mac.txt`
     * Nu har du de flesta paket (om inte alla?) som vi kommer använda i kursen
 3. (Om du använder VS Code):
     * Öppna mappen i VS Code
