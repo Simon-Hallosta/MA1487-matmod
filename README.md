@@ -13,7 +13,7 @@ Här hittar ni uppdaterade versioner av de demos som gårs igenom på föreläsn
     * Nu har du de flesta paket (om inte alla?) som vi kommer använda i kursen
 3. (Om du använder VS Code):
     * Öppna mappen i VS Code
-    * Om Python inte är installera gör det genom pakethanteraren i VS Code
+    * Om Python inte är installerat gör det genom pakethanteraren i VS Code
     * Tryck på `Ctrl + Shift + P` och sök på `Python: Select Interpreter`
     * Välj ditt nystartade environment
-4. Lek runt med exemplena!
+4. Lek runt med exemplerna!
